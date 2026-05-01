@@ -1,16 +1,16 @@
 # Movie Recommendation System
 
-For this project, We built a movie recommendation system using the CiaoDVD dataset. The goal was to compare different ways of predicting ratings and see which one works better.
+For this project, we built a movie recommendation system using the CiaoDVD dataset. The goal was to compare different ways of predicting ratings and see which one works better.
 
 Dataset:
-The dataset includes user IDs, movie IDs, ratings, and review dates.
+The dataset includes user ID, movie ID, movie category ID, rating, review ID, and review date.
 
 Models used:
 - Global average model
 - Item-based collaborative filtering
 
 Train/Test split:
-We split the data into 80% training and 20% testing.
+The data was split into 80% training and 20% testing.
 
 Evaluation:
 We used RMSE and MAE to measure how accurate the predictions were.
