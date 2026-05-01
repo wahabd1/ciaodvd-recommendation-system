@@ -29,5 +29,7 @@ The item-based model performed better since it had lower error values.
 How to run:
 Open the notebook and run all the cells.
 
+Dependencies : Python, pandas, numpy, matplotlib, scikit-learn
+
 Group Members:
 - Dennis Wahab and Rehan Cherian
